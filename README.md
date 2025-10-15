@@ -2,6 +2,12 @@
 
 A stunning, modern e-commerce demo built with **Next.js 14**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**. Features beautiful gradients, smooth animations, and a premium Apple-inspired UI.
 
+## 🌐 Live Demo
+
+**🚀 [View Live Site on Vercel](https://nextjs-shopnex-8yvi.vercel.app/)**
+
+---
+
 ![Next.js](https://img.shields.io/badge/Next.js-14-black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.5-blue)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8)
@@ -179,12 +185,17 @@ npm start
 
 ## 🚀 Deploy on Vercel
 
+**Live Demo:** [https://nextjs-shopnex-8yvi.vercel.app/](https://nextjs-shopnex-8yvi.vercel.app/)
+
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/nextjs-shopnex)
 
+### Deployment Steps:
 1. Push your code to GitHub
 2. Import your repository to Vercel
 3. Vercel will automatically detect Next.js
 4. Your site will be live in minutes!
+
+**Current deployment:** [nextjs-shopnex-8yvi.vercel.app](https://nextjs-shopnex-8yvi.vercel.app/)
 
 ## 📝 Scripts
 

@@ -150,8 +150,8 @@ export default function AboutPage() {
           <h2 className="text-4xl font-bold gradient-text mb-6">
             Ready to Start Shopping?
           </h2>
-          <p className="text-gray-600 mb-8 max-w-2xl mx-auto text-lg">
-            Explore our collection of quality products and find exactly what you're looking for.
+            <p className="text-gray-600 mb-8 max-w-2xl mx-auto text-lg">
+            Explore our collection of quality products and find exactly what you&apos;re looking for.
           </p>
           <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
             <Link

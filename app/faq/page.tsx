@@ -17,7 +17,7 @@ export default function FAQPage() {
         },
         {
           q: 'How do I track my order?',
-          a: 'Once your order ships, you\'ll receive a tracking number via email. You can also track your order by logging into your account and visiting the "Order History" section.'
+          a: 'Once your order ships, you will receive a tracking number via email. You can also track your order by logging into your account and visiting the "Order History" section.'
         },
         {
           q: 'Can I cancel or modify my order?',
@@ -46,7 +46,7 @@ export default function FAQPage() {
         },
         {
           q: 'What if my package is lost or damaged?',
-          a: 'We\'re here to help! Contact us immediately if your package arrives damaged or goes missing. We\'ll file a claim with the carrier and send a replacement or issue a refund.'
+          a: 'We are here to help! Contact us immediately if your package arrives damaged or goes missing. We will file a claim with the carrier and send a replacement or issue a refund.'
         }
       ]
     },
@@ -63,7 +63,7 @@ export default function FAQPage() {
         },
         {
           q: 'Can I exchange an item?',
-          a: 'Yes! Contact our support team to arrange an exchange. We\'ll send you the new item once we receive the original product back.'
+          a: 'Yes! Contact our support team to arrange an exchange. We will send you the new item once we receive the original product back.'
         },
         {
           q: 'Are there any non-returnable items?',
@@ -84,11 +84,11 @@ export default function FAQPage() {
         },
         {
           q: 'How do I know what size to order?',
-          a: 'Each product page includes detailed size charts and measurements. You can also check customer reviews for fit feedback. If you\'re unsure, contact us for personalized sizing help.'
+          a: 'Each product page includes detailed size charts and measurements. You can also check customer reviews for fit feedback. If you are unsure, contact us for personalized sizing help.'
         },
         {
           q: 'When will out-of-stock items be available?',
-          a: 'You can sign up for email notifications on any out-of-stock product page. We\'ll notify you as soon as the item is back in stock.'
+          a: 'You can sign up for email notifications on any out-of-stock product page. We will notify you as soon as the item is back in stock.'
         }
       ]
     },
@@ -105,7 +105,7 @@ export default function FAQPage() {
         },
         {
           q: 'How do I reset my password?',
-          a: 'Click "Forgot Password" on the login page. Enter your email address and we\'ll send you a secure link to create a new password.'
+          a: 'Click "Forgot Password" on the login page. Enter your email address and we will send you a secure link to create a new password.'
         },
         {
           q: 'Can I save my payment information?',
@@ -191,7 +191,7 @@ export default function FAQPage() {
           <div className="glass rounded-3xl p-8 text-center shadow-2xl bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-600">
             <h3 className="text-3xl font-bold text-white mb-4">Still Have Questions?</h3>
             <p className="text-white/90 mb-6 text-lg">
-              Can't find what you're looking for? Our support team is happy to help!
+              Cannot find what you are looking for? Our support team is happy to help!
             </p>
             <Link href="/contact">
               <motion.button

@@ -42,7 +42,7 @@ export default function CartPage() {
           </motion.svg>
           <h2 className="text-4xl font-bold gradient-text mb-4">Your cart is empty</h2>
           <p className="text-gray-600 mb-8 text-lg">
-            Looks like you haven't added anything to your cart yet.
+            Looks like you haven&apos;t added anything to your cart yet.
           </p>
           <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
             <Link

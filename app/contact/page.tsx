@@ -46,7 +46,7 @@ export default function ContactPage() {
         >
           <h1 className="text-5xl md:text-6xl font-bold gradient-text mb-4">Contact Us</h1>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Have a question? We'd love to hear from you. Send us a message and we'll respond as soon as possible.
+            Have a question? We&apos;d love to hear from you. Send us a message and we&apos;ll respond as soon as possible.
           </p>
         </motion.div>
 
@@ -71,7 +71,7 @@ export default function ContactPage() {
                     </svg>
                   </div>
                   <h3 className="text-3xl font-bold gradient-text mb-4">Message Sent! 🎉</h3>
-                  <p className="text-gray-600">We'll get back to you within 24 hours.</p>
+                  <p className="text-gray-600">We&apos;ll get back to you within 24 hours.</p>
                 </motion.div>
               ) : (
                 <form onSubmit={handleSubmit} className="space-y-6">
